@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Hina628/Hina628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web Developer | Frontend Specialist**  
+🎓 **Graduate in B.com | Web Development Intern**  
+🌐 **Building responsive and interactive websites with HTML, CSS, JavaScript, and Bootstrap.**  
+💡 **Learning React.js & Node.js | Open to collaboration on innovative projects.**  
+📈 **Passionate about solving real-world problems through code.**  
+💬 **Ask me about: Web Development, Frontend Design, or UI/UX Best Practices!**  
+📫 **Connect with me:**  
+   - [LinkedIn]( https://www.linkedin.com/in/hina-fahim-021515313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+   - [Netlify](https://app.netlify.com/teams/hina628/sites)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ **Skills & Tools**:
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** Learning Node.js  
+- **Version Control:** Git, GitHub
+
+
+
+### 🌱 **Currently Learning**:
+- React.js  
+- Node.js
+
+### 🔗 **Fun Fact**:
+I enjoy creating visually appealing and functional designs! 🎨
+
